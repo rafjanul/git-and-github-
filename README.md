@@ -15,10 +15,19 @@ retrieve an entire repository from a hosted location via URL
 cd means change directory
 <br>
 the use of cd is suppose if we want to go from an outside folder to an inside folder we use that
-<br>
 <h4> structure </h4>
 <strong> cd [folder name] </strong>
 <br>
+
+now suppose we want to come outside of a folder for this we use
+<h4> structure </h4>
+<strong> cd .. </strong>
+
+# Use of mkdir
+it is used to create a new folder
+<h4> structure </h4>
+<strong> mkdir [folder name] </strong>
+
 
 # Use of list files
 ls means list files
@@ -85,5 +94,12 @@ in this case it will be
 <strong> git push origin main </strong> 
 
 # Create repo from our local machine 
+for this we use the <strong> init </strong> command
+<br>
+it is used to create a new git repo 
+<h4> structure </h4>
+<strong> git init </strong>
+
+
 
   
