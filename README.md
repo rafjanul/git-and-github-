@@ -56,4 +56,22 @@ basically it means whatever code is in github is in the vs code (code editor)
   <li> <h4> unmodified </h4> </li>
   unchanged  
 </ol>
+
+<h2> How to add the file and actually commit</h2>
+<h3> There are two steps to that </h3>
+<ol>
+  <li> <h4> add </h4> </li>
+  adds new or changed files in your working directory to the git staging area
+  <h4> structure </h4>
+<strong> git add [file name] </strong>
+  <br>
+  or
+  <strong> git add . </strong> {this means to add all the changes instead of writing individual file names}
+<br>
+  <li> <h4> commit </h4> </li>
+  it is the record of the change (the confirmation that the change happened)
+  <h4> structure </h4>
+<strong> git commit-m "[any message]" </strong> 
+<br>
+</ol>
   
