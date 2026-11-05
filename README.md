@@ -5,6 +5,7 @@ This is a demo repo to learn github
 In Vs code code terminal go to the left side here you will show one + icon from there you can change powershell to gi bash
 
 # Clone a github repo in our local machine
+<h4> structure </h4>
 <strong> git clone [url] </strong>
 <br>
 retrieve an entire repository from a hosted location via URL
@@ -30,6 +31,14 @@ the use of ls is that if we want to see all the files in a folder we use that
 <h4> To view the hidden folders</h4>
 <strong> ls -a </strong>
 <br>
- 
+
+# Display the status of the files
+<h4> structure </h4>
+<strong> git status </strong> 
+<br>
+show modified files in working directory, staged for your next commit
+<br> 
+basically it means whatever code is in github is in the vs code (code editor)
+
   
   
