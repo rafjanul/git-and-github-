@@ -1,8 +1,8 @@
 # github_learn
 This is a demo repo to learn github
-<br>
+
 # Before starting
-In Vs code code terminal go to the left side here you will show one + icon from there you can change powershell to gi bash
+In Vs code code terminal go to the left side here you will show one + icon from there you can change powershell to gi bash (optional)
 
 # Clone a github repo in our local machine
 <h4> structure </h4>
@@ -99,6 +99,7 @@ for this we use the <strong> init </strong> command
 it is used to create a new git repo 
 <h4> structure </h4>
 <strong> git init </strong>
+
 
 
 
