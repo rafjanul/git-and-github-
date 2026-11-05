@@ -93,12 +93,37 @@ in this case it will be
 <br>
 <strong> git push origin main </strong> 
 
+<h4>also to push a lot of changes</h4>
+<strong>git push -u origin main </strong>
+<br>
+after that we can just use <strong>git push </strong> to push the changes
+
 # Create repo from our local machine 
 for this we use the <strong> init </strong> command
 <br>
 it is used to create a new git repo 
 <h4> structure </h4>
 <strong> git init </strong>
+
+# Adding a new remote repo 
+it is used to add a new git remote repo 
+<h4> structure </h4>
+<strong> git remote add origin [url] </strong>
+
+# Verify the remote
+<h4> structure </h4>
+<strong> git remote -v </strong>
+
+# To check the branch
+it is used to check in which branch we are
+<h4> structure </h4>
+<strong> git branch </strong>
+
+# To rename any branch
+it is used to rename any branch 
+<h4> structure </h4>
+<strong> git branch -M [new name] </strong>
+
 
 
 
