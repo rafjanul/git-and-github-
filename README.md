@@ -43,15 +43,17 @@ basically it means whatever code is in github is in the vs code (code editor)
 <h2> What happens when the status is not the same</h2>
 <h3> In that case the following four conditions arises </h3>
 
-<h4> untracked </h4>
-new files that git doesn't yet track (files created in code editor not uploaded to git)
-
-<h4> modified </h4>
-changed
-
-<h4> staged </h4>
-file is ready to be committed
-
-<h4> unmodified </h4>
-unchanged  
+<ol>
+  <li> <h4> untracked </h4> </li>
+  new files that git doesn't yet track (files created in code editor not uploaded to git)
+  
+  <li> <h4> modified </h4> </li>
+  changed
+  
+  <li> <h4> staged </h4> </li>
+  file is ready to be committed
+  
+  <li> <h4> unmodified </h4> </li>
+  unchanged  
+</ol>
   
