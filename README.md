@@ -74,7 +74,8 @@ basically it means whatever code is in github is in the vs code (code editor)
   <h4> structure </h4>
 <strong> git commit-m "[any message]" </strong> 
 </ol>
-# Use of push command
+
+# Use of push
 it is used to push the changes we added and committed in our local machine to github
 <h4> structure </h4>
 <strong> git push [alias] [branch] </strong>
