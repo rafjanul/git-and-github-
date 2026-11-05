@@ -1,6 +1,3 @@
-# github_learn
-This is a demo repo to learn github
-
 # Before starting
 In Vs code code terminal go to the left side here you will show one + icon from there you can change powershell to gi bash (optional)
 
