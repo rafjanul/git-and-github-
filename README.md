@@ -66,12 +66,21 @@ basically it means whatever code is in github is in the vs code (code editor)
 <strong> git add [file name] </strong>
   <br>
   or
+  <br>
   <strong> git add . </strong> {this means to add all the changes instead of writing individual file names}
 <br>
   <li> <h4> commit </h4> </li>
   it is the record of the change (the confirmation that the change happened)
   <h4> structure </h4>
 <strong> git commit-m "[any message]" </strong> 
-<br>
 </ol>
+# Use of push command
+it is used to push the changes we added and committed in our local machine to github
+<h4> structure </h4>
+<strong> git push [alias] [branch] </strong>
+<br>
+in this case it will be
+<br>
+<strong> git push origin main </strong> 
+
   
